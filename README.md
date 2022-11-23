@@ -9,3 +9,4 @@ Maintenance log
 | 11/10/2021 |  40148  | 4 New Tires Goodyear WeatherReady    |  
 | 03/06/2022 |  46384  | Changed Oil/Filter @ 9%, [See receipt](imgs/receipt_02_19_2022.png) |
 | 07/26/2022 |  53366  | Changed Oil/Filter @ 7%, [See receipt](imgs/receipt_06_11_2022.png) |
+| 11/22/2022 |  60190  | Changed Oil/Filter @ 9%, [See receipt](imgs/receipt_11_22_2022.png) |
