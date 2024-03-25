@@ -11,3 +11,4 @@ Maintenance log
 | 07/26/2022 |  53366  | Changed Oil/Filter @ 7%, [See receipt](imgs/receipt_06_11_2022.png) |
 | 11/22/2022 |  60190  | Changed Oil/Filter @ 9%, [See receipt](imgs/receipt_11_22_2022.png) |
 | 04/06/2023 |  64916  | Changed Oil/Filter @ 7%, [See receipt](imgs/receipt_04_02_2023.png) |
+| 03/23/2024 |  78718  | Changed Air Filter & Oil/Filter @ 3%, [See receipt](imgs/receipt_03_23_2024.png)
